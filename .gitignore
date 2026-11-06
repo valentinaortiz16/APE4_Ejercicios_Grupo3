@@ -1,0 +1,6 @@
+# Archivos compilados
+*.class
+out/
+bin/
+# VS Code
+.vscode/
